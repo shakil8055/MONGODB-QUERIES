@@ -6,7 +6,7 @@ Product JSON: https://github.com/rvsp/database/blob/master/mongodb/product.json
 
 Created a database using above json in MongoDb and practiced with some basic queries
 
-For the following question write the corresponding MongoDB queries
+**For the following question write the corresponding MongoDB queries**
 
 1.Find all the information about each products
 
